@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/monsters.git/static/css/main.f3bce2a5.chunk.css",
-    "main.js": "/monsters.git/static/js/main.a6d261e3.chunk.js",
-    "main.js.map": "/monsters.git/static/js/main.a6d261e3.chunk.js.map",
-    "runtime-main.js": "/monsters.git/static/js/runtime-main.454fab03.js",
-    "runtime-main.js.map": "/monsters.git/static/js/runtime-main.454fab03.js.map",
-    "static/js/2.4a93f295.chunk.js": "/monsters.git/static/js/2.4a93f295.chunk.js",
-    "static/js/2.4a93f295.chunk.js.map": "/monsters.git/static/js/2.4a93f295.chunk.js.map",
-    "static/js/3.d786c8b5.chunk.js": "/monsters.git/static/js/3.d786c8b5.chunk.js",
-    "static/js/3.d786c8b5.chunk.js.map": "/monsters.git/static/js/3.d786c8b5.chunk.js.map",
-    "index.html": "/monsters.git/index.html",
-    "static/css/main.f3bce2a5.chunk.css.map": "/monsters.git/static/css/main.f3bce2a5.chunk.css.map",
-    "static/js/2.4a93f295.chunk.js.LICENSE.txt": "/monsters.git/static/js/2.4a93f295.chunk.js.LICENSE.txt"
+    "main.css": "/monsters/static/css/main.f3bce2a5.chunk.css",
+    "main.js": "/monsters/static/js/main.a6d261e3.chunk.js",
+    "main.js.map": "/monsters/static/js/main.a6d261e3.chunk.js.map",
+    "runtime-main.js": "/monsters/static/js/runtime-main.34c42df9.js",
+    "runtime-main.js.map": "/monsters/static/js/runtime-main.34c42df9.js.map",
+    "static/js/2.4a93f295.chunk.js": "/monsters/static/js/2.4a93f295.chunk.js",
+    "static/js/2.4a93f295.chunk.js.map": "/monsters/static/js/2.4a93f295.chunk.js.map",
+    "static/js/3.d786c8b5.chunk.js": "/monsters/static/js/3.d786c8b5.chunk.js",
+    "static/js/3.d786c8b5.chunk.js.map": "/monsters/static/js/3.d786c8b5.chunk.js.map",
+    "index.html": "/monsters/index.html",
+    "static/css/main.f3bce2a5.chunk.css.map": "/monsters/static/css/main.f3bce2a5.chunk.css.map",
+    "static/js/2.4a93f295.chunk.js.LICENSE.txt": "/monsters/static/js/2.4a93f295.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.454fab03.js",
+    "static/js/runtime-main.34c42df9.js",
     "static/js/2.4a93f295.chunk.js",
     "static/css/main.f3bce2a5.chunk.css",
     "static/js/main.a6d261e3.chunk.js"
